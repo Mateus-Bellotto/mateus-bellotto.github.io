@@ -63,7 +63,7 @@ document.head.appendChild(style);
 // ===== WhatsApp Floating Button =====
 function createWhatsAppButton() {
     const whatsappBtn = document.createElement('a');
-    whatsappBtn.href = 'https://wa.me/5548998088357?text=Olá! Gostaria de agendar uma consulta.';
+    whatsappBtn.href = 'https://wa.me/5548991018757?text=Olá! Gostaria de agendar uma consulta.';
     whatsappBtn.target = '_blank';
     whatsappBtn.rel = 'noopener noreferrer';
     whatsappBtn.className = 'whatsapp-float';
